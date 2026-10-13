@@ -1,4 +1,4 @@
-# ForwardEdge AI Website
+# ForwardEdge Website
 
 Website source code for ForwardEdge AI Singapore.
 
